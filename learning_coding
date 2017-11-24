@@ -1,1 +1,4 @@
 
+/*start python knocked it */
+moives=["肖申克的救赎"，"大话西游"]
+print(movies)
